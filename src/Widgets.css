@@ -1,0 +1,8 @@
+.widgets{
+    padding: 10px ;
+    
+}
+
+.widgets > iframe{
+    border-radius: 20px;
+}
